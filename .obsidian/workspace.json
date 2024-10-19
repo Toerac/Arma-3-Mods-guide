@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Guide/Вступление.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Вступление"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Guide/Вступление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Вступление"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Guide/Вступление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Вступление"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Guide/Вступление.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Вступление"
             }
           }
         ]
@@ -165,11 +165,19 @@
   },
   "active": "cce350e649b0dc6f",
   "lastOpenFiles": [
-    "create a link.md",
     "README.md",
+    "Guide/Вступление.md",
+    "().md",
+    "Guide/Порт модели",
+    "Guide/Untitled 1.md",
+    "Guide/Рипы",
+    "Guide/Лего",
+    "Guide/Ретекстуры",
+    "Guide",
+    "create a link.md",
+    "Untitled.canvas",
     "Arma-3-Mods-guide/README.md",
     "Arma-3-Mods-guide",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }
