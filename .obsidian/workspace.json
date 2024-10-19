@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Вступление.md",
+                "file": "Guide/Ретекстуры/Начиная/2. Структура мода.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вступление"
+              "title": "2. Структура мода"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide/Вступление.md",
+                "file": "Guide/Ретекстуры/Начиная/2. Структура мода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вступление"
+              "title": "Backlinks for 2. Структура мода"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guide/Вступление.md",
+                "file": "Guide/Ретекстуры/Начиная/2. Структура мода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Вступление"
+              "title": "Outgoing links from 2. Структура мода"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guide/Вступление.md"
+                "file": "Guide/Ретекстуры/Начиная/2. Структура мода.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Вступление"
+              "title": "Outline of 2. Структура мода"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "cce350e649b0dc6f",
   "lastOpenFiles": [
-    "README.md",
     "Guide/Вступление.md",
+    "Guide/Ретекстуры/Начиная/2. Структура мода.md",
+    "Guide/Ретекстуры/Начиная/1. Необходимые инструменты.md",
+    "Guide/Ретекстуры/Начиная/Untitled",
+    "Guide/Ретекстуры/Начиная",
+    "README.md",
     "().md",
     "Guide/Порт модели",
     "Guide/Untitled 1.md",
