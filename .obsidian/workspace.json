@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8896e94a008db3ab",
+        "id": "b299170dea9854b8",
         "type": "tabs",
         "children": [
           {
-            "id": "58f63aa5f8868e37",
+            "id": "f3370a9716b81c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,14 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f63aa5f8868e37",
+  "active": "f3370a9716b81c58",
   "lastOpenFiles": [
+    "Guide/Ретекстуры/1. Начиная/1. Необходимые инструменты.md",
     "Guide/Ретекстуры/2. Простой ретекстур/1. Ретекстур M113 из RHSUSAF.md",
+    "Guide/Ретекстуры/1. Начиная/2. Структура мода.md",
+    "2..md",
     "Guide/Вступление.md",
     "Guide/Ретекстуры/1. Начиная/Untitled.md",
-    "Guide/Ретекстуры/1. Начиная/2. Структура мода.md",
     "Guide/Ретекстуры/2. Простой ретекстур",
-    "Guide/Ретекстуры/1. Начиная/1. Необходимые инструменты.md",
     "Guide/Ретекстуры/Начиная/Untitled",
     "Guide/Ретекстуры/1. Начиная",
     "README.md",
