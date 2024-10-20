@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Ретекстуры/2. Ретекстуры/1. Ретекстур M113 из RHSUSAF.md",
+                "file": "Guide/Рипы/1. Общая информация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ретекстур M113 из RHSUSAF"
+              "title": "1. Общая информация"
             }
           }
         ]
@@ -173,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ae46fddcb43f20",
+  "active": "f3370a9716b81c58",
   "lastOpenFiles": [
     "Guide/Вступление.md",
-    "Guide/Ретекстуры/1. Начиная/2. Структура мода.md",
+    "Guide/Рипы/1. Общая информация.md",
     "Guide/Ретекстуры/1. Начиная/1. Необходимые инструменты.md",
+    "Guide/Ретекстуры/1. Начиная/2. Структура мода.md",
     "Guide/Ретекстуры/2. Ретекстуры/1. Ретекстур M113 из RHSUSAF.md",
     "Images/m113_retex/Photoshop_1.png",
     "Images/m113_retex/addonbuilder_1.png",
