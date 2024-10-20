@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Ретекстуры/2. Простой ретекстур/1. Ретекстур M113 из RHSUSAF.md",
+                "file": "Guide/Ретекстуры/2. Ретекстуры/1. Ретекстур M113 из RHSUSAF.md",
                 "mode": "source",
                 "source": false
               },
@@ -144,8 +144,19 @@
               "icon": "lucide-list",
               "title": "Outline of 1. Ретекстур M113 из RHSUSAF"
             }
+          },
+          {
+            "id": "089754e81f08a7c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,12 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3370a9716b81c58",
+  "active": "33ae46fddcb43f20",
   "lastOpenFiles": [
-    "Guide/Ретекстуры/1. Начиная/1. Необходимые инструменты.md",
-    "Guide/Ретекстуры/1. Начиная/2. Структура мода.md",
-    "Guide/Ретекстуры/2. Простой ретекстур/1. Ретекстур M113 из RHSUSAF.md",
     "Guide/Вступление.md",
+    "Guide/Ретекстуры/1. Начиная/2. Структура мода.md",
+    "Guide/Ретекстуры/1. Начиная/1. Необходимые инструменты.md",
+    "Guide/Ретекстуры/2. Ретекстуры/1. Ретекстур M113 из RHSUSAF.md",
     "Images/m113_retex/Photoshop_1.png",
     "Images/m113_retex/addonbuilder_1.png",
     "Images/m113_retex/arma3_1.jpg",
@@ -184,7 +195,7 @@
     "New folder",
     "2..md",
     "Guide/Ретекстуры/1. Начиная/Untitled.md",
-    "Guide/Ретекстуры/2. Простой ретекстур",
+    "Guide/Ретекстуры/2. Ретекстуры",
     "Guide/Ретекстуры/Начиная/Untitled",
     "Guide/Ретекстуры/1. Начиная",
     "().md",
